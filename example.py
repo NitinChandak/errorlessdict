@@ -3,6 +3,7 @@ from errorlessdict import ErrorlessDict
 # Features are arrays in format: [Appearance, Intelligence, Personality]
 feature_weights = [1, 2, 3]
 
+#these is just a joke
 waifus = {
     'Aqua': [10, 0, 5],
     'Emilia': [7, 6, 7],
